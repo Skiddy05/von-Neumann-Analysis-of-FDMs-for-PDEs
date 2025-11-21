@@ -35,5 +35,5 @@ plt.xlabel(r'CFL (ν = $a\,\Delta t/\Delta x$)')
 plt.ylabel(r'$k\Delta x / \pi$')
 plt.title(r'Lax–Friedrichs (Advection) — Analytical $|G(k\Delta x, CFL)|$')
 plt.tight_layout()
-plt.savefig("LF_G.pdf")
+plt.savefig("LF_G.png")
 

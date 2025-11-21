@@ -65,13 +65,13 @@ for theta in thetas:
     plt.tight_layout()
     if theta == 0.0:
         plt.title(f"Heatmap of $|G(k)|$ for FTCS Scheme (Heat Equation)")
-        plt.savefig(f"FTCS_H_G.pdf")
+        plt.savefig(f"FTCS_H_G.png")
     elif theta == 0.5:
         plt.title(f"Heatmap of $|G(k)|$ for Crank-Nicolson Scheme")
-        plt.savefig(f"CN_G.pdf")
+        plt.savefig(f"CN_G.png")
     elif theta == 1.0:
         plt.title(f"Heatmap of $|G(k)|$ for BTCS Scheme (Heat Equation)")
-        plt.savefig(f"BTCS_H_G.pdf")
+        plt.savefig(f"BTCS_H_G.png")
     else:
         plt.title(f"Heatmap of $|G(k)|$ for θ = {theta}")
-        plt.savefig(f"Gem_method_{theta}.pdf")
+        plt.savefig(f"General_method_{theta}.pdf")
