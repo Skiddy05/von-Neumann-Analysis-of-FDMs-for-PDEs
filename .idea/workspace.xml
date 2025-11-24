@@ -7,12 +7,7 @@
     <list default="true" id="70e5a91f-9cbe-40d0-bec5-2572ce36addf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Advection Equation Solvers.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Advection Equation Solvers.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CFL Sweep_ Implicit Euler.py" beforeDir="false" afterPath="$PROJECT_DIR$/CFL Sweep_ Implicit Euler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CFL_Sweep - Lax Friedrich.py" beforeDir="false" afterPath="$PROJECT_DIR$/CFL_Sweep - Lax Friedrich.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CFL_Sweep - Lax Wendroff.py" beforeDir="false" afterPath="$PROJECT_DIR$/CFL_Sweep - Lax Wendroff.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CFL_Sweep_FTCS.py" beforeDir="false" afterPath="$PROJECT_DIR$/CFL_Sweep_FTCS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CFL_Sweep_Leapfrog.py" beforeDir="false" afterPath="$PROJECT_DIR$/CFL_Sweep_Leapfrog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Heat Equation Sweep.py" beforeDir="false" afterPath="$PROJECT_DIR$/Heat Equation Sweep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +27,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
