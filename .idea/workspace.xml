@@ -6,9 +6,58 @@
   <component name="ChangeListManager">
     <list default="true" id="70e5a91f-9cbe-40d0-bec5-2572ce36addf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advection Equation Solvers.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Advection Equation Solvers.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/BTCS_A_0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/BTCS_A_0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/BTCS_A_1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/BTCS_A_1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/BTCS_A_2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/BTCS_A_2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/BTCS_A_G.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/BTCS_A_G.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/BTCS_A_G.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/BTCS_A_G.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/BTCS_H_0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/BTCS_H_0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/BTCS_H_10.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/BTCS_H_10.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/BTCS_H_5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/BTCS_H_5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/BTCS_H_G.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/BTCS_H_G.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/BTCS_H_G.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/BTCS_H_G.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/CN_0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/CN_0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/CN_10.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/CN_10.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/CN_5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/CN_5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/CN_G.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/CN_G.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/CN_G.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/CN_G.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/FTCS_A_1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/FTCS_A_1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/FTCS_A_1000.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/FTCS_A_1000.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/FTCS_A_500.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/FTCS_A_500.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/FTCS_A_G.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/FTCS_A_G.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/FTCS_A_G.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/FTCS_A_G.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/FTCS_H_0_r_0.10.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/FTCS_H_0_r_0.10.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/FTCS_H_0_r_0.51.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/FTCS_H_0_r_0.51.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/FTCS_H_10_r_0.10.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/FTCS_H_10_r_0.10.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/FTCS_H_10_r_0.51.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/FTCS_H_10_r_0.51.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/FTCS_H_5_r_0.10.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/FTCS_H_5_r_0.10.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/FTCS_H_5_r_0.51.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/FTCS_H_5_r_0.51.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/FTCS_H_G.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/FTCS_H_G.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/FTCS_H_G.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/FTCS_H_G.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/LF_0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/LF_0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/LF_1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/LF_1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/LF_2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/LF_2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/LF_G.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/LF_G.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/LF_G.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/LF_G.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/LW_0_l_0.99.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/LW_0_l_0.99.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/LW_0_l_1.25.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/LW_0_l_1.25.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/LW_1_l_0.99.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/LW_1_l_0.99.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/LW_1_l_1.25.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/LW_1_l_1.25.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/LW_2_l_0.99.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/LW_2_l_0.99.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/LW_2_l_1.25.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/LW_2_l_1.25.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/LW_G.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/LW_G.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/LW_G.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/LW_G.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Lpf_G.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/Lpf_G.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Lpf_G.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/Lpf_G.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/lax_friedrichs_0_l_0.50.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/lax_friedrichs_0_l_0.50.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/lax_friedrichs_0_l_0.99.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/lax_friedrichs_0_l_0.99.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/lax_friedrichs_0_l_1.11.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/lax_friedrichs_0_l_1.11.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/lax_friedrichs_1_l_0.50.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/lax_friedrichs_1_l_0.50.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/lax_friedrichs_1_l_0.99.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/lax_friedrichs_1_l_0.99.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/lax_friedrichs_1_l_1.11.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/lax_friedrichs_1_l_1.11.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/lax_friedrichs_2_l_0.50.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/lax_friedrichs_2_l_0.50.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/lax_friedrichs_2_l_0.99.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/lax_friedrichs_2_l_0.99.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/lax_friedrichs_2_l_1.11.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Project Report/Plots/lax_friedrichs_2_l_1.11.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +112,11 @@
       <recent name="C:\Users\kshit\College\Stability Analysis of FDMs\Plots\Advection Equation Results\FTCS" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\kshit\College\Stability Analysis of FDMs\Plots" />
+      <recent name="C:\Users\kshit\College\Stability Analysis of FDMs\Project Report" />
       <recent name="C:\Users\kshit\College\Stability Analysis of FDMs" />
+      <recent name="C:\Users\kshit\College\Stability Analysis of FDMs\Stability Heat Map Plotters" />
+      <recent name="C:\Users\kshit\College\Stability Analysis of FDMs\Plots" />
       <recent name="C:\Users\kshit\College\Stability Analysis of FDMs\Plots\Advection Equation Results\Lax Wendroff" />
-      <recent name="C:\Users\kshit\College\Stability Analysis of FDMs\Plots\Advection Equation Results\Leapfrog" />
-      <recent name="C:\Users\kshit\College\Stability Analysis of FDMs\Plots\Advection Equation Results\Lax Friedrich" />
     </key>
   </component>
   <component name="RunManager" selected="Python.CFL Sweep_ Implicit Euler">
@@ -84,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CFL Sweep_ Implicit Euler.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kshit\College\Stability Analysis of FDMs\Stability Heat Map Plotters\CFL Sweep_ Implicit Euler.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CFL_Sweep - Lax Friedrich.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kshit\College\Stability Analysis of FDMs\Stability Heat Map Plotters\CFL_Sweep - Lax Friedrich.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +177,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CFL_Sweep - Lax Wendroff.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kshit\College\Stability Analysis of FDMs\Stability Heat Map Plotters\CFL_Sweep - Lax Wendroff.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CFL_Sweep_FTCS (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="CFL_Sweep_FTCS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Stability Analysis of FDMs" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,7 +199,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CFL_Sweep_FTCS.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kshit\College\Stability Analysis of FDMs\Stability Heat Map Plotters\CFL_Sweep_FTCS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +221,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Heat Equation Sweep.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kshit\College\Stability Analysis of FDMs\Stability Heat Map Plotters\Heat Equation Sweep.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
