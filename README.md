@@ -12,7 +12,7 @@ This independent project was taken up as a part of the course *EP2130 - Mathemat
 This project investigates the stability, dissipative, and dispersive properties of various Finite Difference Method (FDM) schemes through von Neumann Stability Analysis (vNSA). The analysis is applied to the solvers of two canonical PDEs:
 
 - **The Linear Advection Equation** — $\frac{\partial f}{\partial t} + u \frac{\partial f}{\partial x} = 0$
-- **The 1D Heat Equation** — $\frac{\partial f}{\partial t} = \alpha \frac{\partial^2 f}{\partial x^2} $
+- **The 1D Heat Equation** — $\frac{\partial f}{\partial t} = \alpha \frac{\partial^2 f}{\partial x^2}$
 
 For each scheme, the amplification factor $G_k$ is derived analytically, and its magnitude and phase are used to characterise stability, dissipation, and dispersion. The theoretical predictions are then confirmed through numerical simulation.
 
@@ -36,7 +36,7 @@ For each scheme, the amplification factor $G_k$ is derived analytically, and its
 | BTCS (Backward Euler) | Unconditionally Stable | Strongly dissipative | Non-dispersive |
 | Crank–Nicolson | Unconditionally Stable | Mildly dissipative | Non-dispersive |
 
-$\lambda = u \frac{\Delta t}{\Delta x}$ (CFL number), $ r = \alpha \frac{\Delta t}{\Delta x^2}$ (diffusion number)
+$\lambda = u \frac{\Delta t}{\Delta x}$ (CFL number), $ r = \alpha \frac{\Delta t}{\Delta x^2} $ (diffusion number)
 
 ---
 
@@ -109,8 +109,8 @@ The polar decomposition $G_k = |G_k| e^{iφ_k}$ further reveals:
 
 All schemes were tested against three initial conditions to probe different aspects of numerical behaviour:
 
-- **Sine wave** `u(x,0) = sin(kx)` — isolates the behaviour of a single Fourier mode
-- **Gaussian-modulated sine** `u(x,0) = exp(-(x-x₀)²/σ²) sin(kx)` — tests combined dispersion and dissipation for a localised wave packet
+- **Sine wave** $u(x, 0) = \sin(kx)$ — isolates the behaviour of a single Fourier mode
+- **Gaussian-modulated sine** $u(x,0) = \exp(-(x-x_0)^2/\sigma^2) \sin(kx)$ — tests combined dispersion and dissipation for a localised wave packet
 - **Heaviside step function** — tests how schemes handle discontinuities and high-frequency content
 
 ---
