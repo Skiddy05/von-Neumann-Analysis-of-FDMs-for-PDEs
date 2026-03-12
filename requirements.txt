@@ -1,2 +1,8 @@
-numpy~=2.3.4
-matplotlib~=3.10.7
+# Core numerical and plotting libraries
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Jupyter environment
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
